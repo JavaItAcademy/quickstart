@@ -1,0 +1,2 @@
+${result}
+<%= req.getParameter("fullName")%>
